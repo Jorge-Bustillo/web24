@@ -239,7 +239,7 @@ h1 {
 
 .icono {
 
-    list-style-image: url('/img/java.png');
+    list-style-image: url('../img/java.png');
 }
 
 .tabla1{
@@ -258,8 +258,8 @@ background-color:aqua ;
 
 
 .horario{
-
-    width: 50%;
+    
+    width: 80%;
     margin: auto;
     text-align: center;
 
